@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/neuronClient/static/css/main.4ecb3f0c.chunk.css",
+    "main.js": "/neuronClient/static/js/main.39f0c603.chunk.js",
+    "main.js.map": "/neuronClient/static/js/main.39f0c603.chunk.js.map",
+    "runtime-main.js": "/neuronClient/static/js/runtime-main.f77510a2.js",
+    "runtime-main.js.map": "/neuronClient/static/js/runtime-main.f77510a2.js.map",
+    "static/css/2.1b4b65d2.chunk.css": "/neuronClient/static/css/2.1b4b65d2.chunk.css",
+    "static/js/2.c7a6f023.chunk.js": "/neuronClient/static/js/2.c7a6f023.chunk.js",
+    "static/js/2.c7a6f023.chunk.js.map": "/neuronClient/static/js/2.c7a6f023.chunk.js.map",
+    "index.html": "/neuronClient/index.html",
+    "precache-manifest.e8d8286d43c383f430f3109868361389.js": "/neuronClient/precache-manifest.e8d8286d43c383f430f3109868361389.js",
+    "service-worker.js": "/neuronClient/service-worker.js",
+    "static/css/2.1b4b65d2.chunk.css.map": "/neuronClient/static/css/2.1b4b65d2.chunk.css.map",
+    "static/css/main.4ecb3f0c.chunk.css.map": "/neuronClient/static/css/main.4ecb3f0c.chunk.css.map",
+    "static/js/2.c7a6f023.chunk.js.LICENSE.txt": "/neuronClient/static/js/2.c7a6f023.chunk.js.LICENSE.txt",
+    "static/media/info.png": "/neuronClient/static/media/info.9bcf1dc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f77510a2.js",
+    "static/css/2.1b4b65d2.chunk.css",
+    "static/js/2.c7a6f023.chunk.js",
+    "static/css/main.4ecb3f0c.chunk.css",
+    "static/js/main.39f0c603.chunk.js"
+  ]
+}
